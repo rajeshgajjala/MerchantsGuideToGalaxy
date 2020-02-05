@@ -71,5 +71,6 @@ I have no idea what you are talking about
 
 
 ### Running the code:
+Import the Project into Eclipse and add the required JARs from lib folder to project build path. These JARs are required to execute the JUnit test cases.
 
-The Trade.java file has the main method to run the program. The inputFile is the file with a list of inputs for the program.
+The Trade.java file has the main method to run the program. The InputFile is the file with a list of inputs for the program.
